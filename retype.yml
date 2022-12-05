@@ -8,4 +8,4 @@ branding:
 favicon: static/favicon.ico
 
 footer:
-  copyright: © Copyright {{ year }} – [FUT Sniping](https://futsnipingbot.com/) – All rights reserved
+  copyright: © Copyright {{ year }} – [MxForex]() – All rights reserved
