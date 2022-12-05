@@ -1,0 +1,18 @@
+input: ./
+output: .retype
+
+branding:
+  title: 
+  label: v4.1
+
+favicon: static/favicon.ico
+
+footer:
+  copyright: © Copyright {{ year }} – [FUT Sniping](https://futsnipingbot.com/) – All rights reserved
+  links:
+    - text: Contact Us
+      link: contact.md
+      icon: megaphone
+    - text: Terms
+      link: https://futsnipingbot.com/page/terms
+      icon: shield-check
