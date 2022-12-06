@@ -2,8 +2,8 @@ input: ./
 output: .retype
 
 branding:
-  logo: /static/mxforex-logo.svg
-  logoDark: /static/mxforex-logo-dark.svg
+  logo: /static/mxforex-logo.png
+  logoDark: /static/mxforex-logo-dark.png
 
 favicon: static/favicon.ico
 
