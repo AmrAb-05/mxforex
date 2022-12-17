@@ -12,16 +12,22 @@ icon: fold-down
 
 [!button variant="info" text="Client Portal" size="s" target="blank" icon="link-external"](https://myaccount.vtmarkets.com)
 
-2. Go to `Funds` > `Withdraw funds` on your left-side menu, and follow the instructions to select your trading account
+2. Go to `Funds` > `Withdraw funds` on your left-side menu, and follow the instructions to select your trading account.
+3. Enter your desired withdrawal amount and payment method.
+4. Finally, click on the `Submit your withdrawal` button to submit your request
 
 
-## FAQ
+## FAQs
 
 ### How long does it take for a withdrawal to arrive in my bank account?
 
 The process time for a withdrawal varies depending on your withdrawal method. Credit/debit card or wire transfer withdrawals usually arrive within 3-7 working days. As the process speed of each bank is different, please refer to the bank process time for details.
 
 In addition, e-wallet withdrawals are generally received within 1-3 working days; USDT withdrawals are generally processed within 1-3 working days, and the actual arrival time may be affected by cryptocurrency market changes.
+
+### What is the minimum withdrawal amount?
+
+Your withdrawal amount must be greater than or equal to £30 GBP.
 
 ### What are the available withdrawal methods?
 
